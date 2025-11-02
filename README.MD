@@ -1,5 +1,3 @@
----
-
 # Adaptive Neuromorphic Control for Rhythmic Motion in Pendulums
 
 This repository contains the MATLAB source code and figures accompanying the paper:
