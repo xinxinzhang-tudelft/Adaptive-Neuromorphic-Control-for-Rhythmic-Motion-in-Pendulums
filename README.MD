@@ -37,7 +37,7 @@ The neuromorphic controller autonomously generates and regulates oscillations wi
 
 If you use this code in your research, please cite:
 
-> **Adaptive Neuromorphic Control for Rhythmic Motion in Pendulums**
+> **Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing**
 > X. Zhang, B. M. Vinagre, I. Tejado, and R. Sepulchre.
 > *[Conference/Journal info once published]*
 
